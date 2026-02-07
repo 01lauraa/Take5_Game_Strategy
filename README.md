@@ -1,4 +1,4 @@
-#Strategy explanation:
+Strategy explanation:
 
 My approach to Take5! was to design a strategy to minimize risks. 3 main factors were 
 considered and prioritized in the following order when deciding which card to play: cards that 

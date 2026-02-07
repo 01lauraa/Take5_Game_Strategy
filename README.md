@@ -1,3 +1,5 @@
+#Strategy explanation:
+
 My approach to Take5! was to design a strategy to minimize risks. 3 main factors were 
 considered and prioritized in the following order when deciding which card to play: cards that 
 have the highest chance of fitting into a row, cards that are either extremely high (<95) or 
